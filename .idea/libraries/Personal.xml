@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Personal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Personal_jar/Personal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
